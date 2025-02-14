@@ -52,7 +52,7 @@ Sou Mateus, graduando em Ciências Econômicas pela Universidade de São Paulo (
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=mateusdebss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -60,7 +60,7 @@ Sou Mateus, graduando em Ciências Econômicas pela Universidade de São Paulo (
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="160" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdebss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
