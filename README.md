@@ -2,7 +2,7 @@
 
 **`Economista Especializado em Análise de Dados e Crédito Estruturado`**
 
-Sou Mateus, graduando em Ciências Econômicas pela Universidade de São Paulo (USP), com sólida experiência em análise de dados no setor de investimentos, especialmente nas áreas de Performance, Alocação e Produtos Estruturados (FIDCs). Tenho habilidades em Business Intelligence, Visualização de Dados, Business Analytics, Data Analytics e Data Storytelling, aplicadas ao contexto financeiro e empresarial. Atualmente, estou focado no desenvolvimento de minhas habilidades em Python e explorando Teses de Crédito Estruturado.
+Sou Mateus, graduando em Ciências Econômicas pela Universidade de São Paulo (USP), com experiência em análise de dados no setor de investimentos, especialmente nas áreas de Performance e Alocação. Tenho habilidades em Business Intelligence, Data Analytics e Data Storytelling, aplicadas ao contexto financeiro e empresarial. Atualmente, estou focado no desenvolvimento de minhas habilidades em Python e explorando Teses de Crédito Estruturado.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mateusdebss/">
